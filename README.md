@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Jr. iOS Developer from Austria!</h3>
 <p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=iosedat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+</p>
 <p align="left"> <a href="https://twitter.com/iosedat" target="blank"><img src="https://img.shields.io/twitter/follow/iosedat?logo=twitter&style=for-the-badge" alt="iosedat" /></a> </p>
 
 - 🔭&nbsp;I’m currently working on **my own Projects.**
