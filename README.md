@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sedat!</h1>
-<h3 align="center">A passionate Jr. iOS Developer from Austria!</h3><p>
+<h1 align="center">Hi! My name is Sedat! 🙋🏻‍♂️ Welcome to my HQ! 🎉</h1>
+<h3 align="center">I'm a passionate Jr. iOS Developer from Austria! 🇦🇹 </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iosedat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 ![](https://komarev.com/ghpvc/?username=iosedat&color=blueviolet)
 
