@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sedat</h1>
-<h3 align="center">A passionate Jr. iOS Developer from Austria</h3>
+<h3 align="center">A passionate Jr. iOS Developer from Austria!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iosedat&label=Profile%20views&color=0e75b6&style=flat" alt="iosedat" /> </p>
 
@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/iosedat" target="blank"><img src="https://img.shields.io/twitter/follow/iosedat?logo=twitter&style=for-the-badge" alt="iosedat" /></a> </p>
 
-- 🔭 I’m currently working on **My own Projects.**
+- 🔭 I’m currently working on **my own Projects.**
 
-- 🌱 I’m currently learning **SwiftUI and Server-Side Swift**
+- 🌱 I’m currently learning **SwiftUI, Back-end Development on SwiftUI and Server-Side Swift**
 
-- 👨‍💻 All of my projects are available at [soon here….](soon here….)
+- 👨‍💻 All of my projects will be available soon here...
 
 - 📝 I regularly write articles on [iosedat.com](iosedat.com)
 
-- 💬 Ask me about **IT and Swift. I will try my best to help.**
+- 💬 Ask me about **IT and Swift. I will try my best to help you.**
 
 - 📫 How to reach me **me@iosedat.com**
 
 - 📄 Know about my experiences [sedatyildirim.at/resume](sedatyildirim.at/resume)
 
-- ⚡ Fun fact **as an IT Allrounder after 15 years of Experience it is really crazy to begin Programming on my 30s.**
+- ⚡ Fun fact **as an IT Allrounder after 15 years of Full Stack Experience it is really crazy to begin Programming on my 30s.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
